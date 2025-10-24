@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/eramahmed/eramahmed/blob/main/banner.png" alt="Eram Ahmed Banner" width="100%" />
+</p>
+
+
 # 👋 Hi, I'm Eram Ahmed
 
 🎨 **Web Design & Front-End Development**  
