@@ -6,7 +6,8 @@ Building human-centered digital experiences that blend creativity, usability, an
 ---
 
 ## 📬 Contact Information
-- **Email:** eram.ahmed@email.com  
+- **Email:** eram.ahmed2184@g
+- mail.com  
 - **Portfolio:** [https://eahmed8.github.io/](https://eahmed8.github.io/)  
 - **LinkedIn:** [linkedin.com/in/eramahmed](https://linkedin.com/in/eramahmed)  
 - **Behance:** [behance.net/eramahmed](https://behance.net/eramahmed)  
