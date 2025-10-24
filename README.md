@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/eramahmed/eramahmed/blob/main/banner.png" alt="Eram Ahmed Banner" width="100%" />
+  <img src="https://github.com/eahmed8/eahmed8/blob/main/banner.png" alt="Eram Ahmed GitHub Banner" width="100%" />
 </p>
+
+
 
 
 # 👋 Hi, I'm Eram Ahmed
