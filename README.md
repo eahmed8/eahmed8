@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://github.com/eahmed8/eahmed8/blob/main/banner.png" alt="Eram Ahmed GitHub Banner" width="55%" />
+  <img src="https://github.com/eahmed8/eahmed8/blob/main/banner.png" alt="Eram Ahmed GitHub Banner" width="70%" />
 </p>
-
-
-
-
 
 # 👋 Hi, I'm Eram Ahmed
 
