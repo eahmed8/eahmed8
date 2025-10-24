@@ -1,40 +1,68 @@
-# 👋 Hi, I'm Eram Ahmed
+<h2 align="left">Hi 👋! I'm Eram Ahmed — a Web Designer, Front-End Developer & Motion Graphics Creator based in the U.S.</h2>
 
-🎨 **Web Design & Front-End Development**  
-Building human-centered digital experiences that blend creativity, usability, and clean code.
+###
 
----
+<img align="right" height="150" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"  />
 
-## 📬 Contact Information
-- **Email:** eram.ahmed2184@g
-- mail.com  
-- **Portfolio:** [https://eahmed8.github.io/](https://eahmed8.github.io/)  
-- **LinkedIn:** [linkedin.com/in/eramahmed](https://linkedin.com/in/eramahmed)  
-- **Behance:** [behance.net/eramahmed](https://behance.net/eramahmed)  
+###
 
----
+<p align="left">
+  I craft interactive and responsive web experiences that merge design, usability, and technology.  
+  Passionate about clean code, thoughtful motion, and creating designs that feel intuitive and human.
+</p>
 
-## 💻 Languages & Tools
-HTML | CSS | JavaScript | Python | jQuery | Bootstrap  
-VS Code | GitHub | Figma | Adobe Creative Cloud (Photoshop, Illustrator, After Effects, Premiere Pro)
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eramahmed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eramahmed&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 Featured Projects
-### 🐶 [Pawfect Pals](https://eahmed8.github.io/FinalAssignmentGIT418/)
-Responsive adoption website with interactive JavaScript features and API integration.
+###
 
-### 🌍 [Wunderlust Travel](https://eahmed8.github.io/wunderlust-responsive-webpage/)
-Travel website built with responsive layouts, gallery pages, and SEO-friendly structure.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="after effects logo"  />
+</div>
 
-### 🎵 [Music Through My Ears](https://youtu.be/yourvideo)
-Diegetic music video edited in Premiere Pro, showcasing sound design and cinematic timing.
+###
 
----
+<div align="center">
+  <a href="mailto:eram.ahmed@email.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/eramahmed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/eramahmed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
+  <a href="https://eahmed8.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=F6D64A&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
+</div>
 
-## 💡 Interests
-- UX/UI accessibility  
-- API-driven web design  
-- Building creative and interactive web experiences
+###
 
-⭐ *Thanks for visiting my GitHub profile!*
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eramahmed/eramahmed/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+###
