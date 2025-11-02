@@ -29,7 +29,7 @@ My work blends visual design, front-end development, and motion graphics to craf
 
 #### 🐶 Pawfect Pals  
 <p align="center">
-  <img src="pawfect-mockup.png" alt="Pawfect Pals Mockup across devices" width="85%" style="border-radius:10px;">
+  <img src="cscpawfect_mockup.png" alt="Pawfect Pals Mockup across devices" width="85%" style="border-radius:10px;">
 </p>
 
 **Live Demo:** [Pawfect Pals](https://eahmed8.github.io/FinalAssignmentGIT418/)  
