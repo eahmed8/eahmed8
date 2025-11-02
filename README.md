@@ -2,7 +2,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/eahmed8/eahmed8/blob/main/banner.png" alt="Eram Ahmed GitHub Banner" width="70%" />
+  <img src="https://github.com/eahmed8/eahmed8/blob/main/banner.png" alt="Eram Ahmed GitHub Banner" width="100%" />
 </p>
 
 <!-- Intro -->
@@ -29,70 +29,81 @@ My work blends visual design, front-end development, and motion graphics to craf
 
 #### 🐶 Pawfect Pals  
 **Live Demo:** [Pawfect Pals](https://eahmed8.github.io/FinalAssignmentGIT418/)  
-Responsive adoption website for a fictional dog rescue + treat shop.  
-
-- Built with semantic HTML, CSS Grid, and JavaScript  
-- Includes a responsive image carousel, number game, and light/dark mode  
-- Integrates third-party API for dynamic image fetching  
+Responsive pet adoption website with playful design and interactivity.
+- ✅ Built using semantic HTML, CSS Grid/Flexbox, JavaScript  
+- 🌙 Includes **light/dark mode toggle**  
+- 🎲 Fun features: number game + image carousel  
+- 📷 Uses third-party API to display random dog images
 - Optimized for accessibility and mobile viewing  
 
 ---
 
 #### ✈️ Wunderlust Travel  
 **Live Demo:** [Wunderlust Travel](https://eahmed8.github.io/wunderlust-responsive-webpage/)  
-A travel discovery site designed around storytelling and emotional imagery.  
-
-- Created using responsive layouts for desktop, tablet, and mobile  
-- Consistent use of the Wunderlust color palette and typography  
-- SEO-optimized structure with descriptive meta tags and headings  
-
+A visually immersive travel site designed to spark curiosity and exploration.  
+- 🖥 Fully responsive — desktop, tablet, mobile layouts  
+- 🎨 Inspired by travel blogs + editorial web design  
+- ⚙️ SEO-friendly structure with descriptive meta tags  
+- 🗂 Organized with Destinations, Trip Planner, Testimonials, Contact
+  
 ---
 
 #### 🚀 Journey to Launch  
 **Watch Animation:** [Rocket Animation](https://youtu.be/Cwde-2LpVH0)  
-A short 2D motion graphics sequence of a rocket launching through the clouds.  
-
-- Designed and animated in After Effects  
-- Used masking, opacity transitions, and Gaussian blur for smoke effects  
-- Animated stars using curves and brightness for twinkling motion  
-- Applied easing for realistic rocket thrust and fire flicker  
+2D motion animation of a rocket launching through the sky.  
+- 🎬 Created in Adobe After Effects  
+- ☁️ Used masks, blur, easing, opacity keyframes for clouds and smoke  
+- ⭐ Added twinkling stars with curve + brightness animation  
+- 🔥 Fire animation refined with masking + flickering glow
 
 ---
 
 #### 🎵 Music Through My Ears  
-A cinematic, diegetic music video edited in Adobe Premiere Pro.  
-
-- Synced visuals with ambient sound layers and environmental cues  
-- Used rolling credits and cinematic letterboxing for storytelling effect  
-- Balanced EQ and reverb to create realistic sound depth  
-- Exported in H.264 for high-quality web delivery  
+A short cinematic video combining music, ambient sound, and visuals.  
+- 🎧 Layered environmental sounds with EQ and reverb  
+- 🎞 Added cinematic black bars + rolling end credits  
+- 🕹 Synced transitions with beat and scene changes  
+- 📤 Exported in H.264 for high-quality streaming  
 
 ---
 
 ### 🧰 Skills & Tools
 
+#### 💻 Development
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="Illustrator" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="After Effects" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" alt="Premiere Pro" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="28" alt="jQuery" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="Bootstrap" />
+</p>
+
+#### 🎨 Design & Motion
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="28" alt="Photoshop" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="28" alt="Illustrator" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="28" alt="After Effects" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="28" alt="Premiere Pro" />
+</p>
+
+#### 🛠 Tools & Workflow
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26" alt="GitHub" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" alt="VS Code" />
+  <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" alt="Figma" />
 </p>
 
 <p>
-I build with **HTML, CSS, and JavaScript**, prototype in the browser, and bring visuals to life through **Adobe Creative Cloud** tools and motion.
+I build responsive web experiences using <b>HTML, CSS, and JavaScript</b>, and bring visuals to life through <b>Adobe Creative Cloud</b> and motion graphics. My workflow blends clean development practices with design thinking, accessibility, and user-centered storytelling.
 </p>
 
 ---
