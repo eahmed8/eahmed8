@@ -64,7 +64,8 @@ A visually immersive travel site designed to spark curiosity and exploration.
 
 ---
 
-#### 🎵 Music Through My Ears  
+#### 🎵 Music Through My Ears
+**Watch video:** [Music Through My Ears](https://docs.google.com/videos/d/1D1DqaADxl7ulWAMBcnXYteDOrIoOKbn4p7GZf3x7x84/edit?scene=id.p#scene=id.p)
 A short cinematic video combining music, ambient sound, and visuals.  
 - 🎧 Layered environmental sounds with EQ and reverb  
 - 🎞 Added cinematic black bars + rolling end credits  
