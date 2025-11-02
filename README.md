@@ -31,7 +31,7 @@ My work blends visual design, front-end development, and motion graphics to craf
 <p align="center">
   <img src="cscpawfect_mockup.png" alt="Pawfect Pals mockup across devices" width="85%" />
 </p>
-**Live Demo:** [Pawfect Pals](https://eahmed8.github.io/FinalAssignmentGIT418/)  
+**Link:** [Pawfect Pals](https://eahmed8.github.io/FinalAssignmentGIT418/)  
 Responsive pet adoption website with playful design and interactivity.
 - ✅ Built using semantic HTML, CSS Grid/Flexbox, JavaScript  
 - 🌙 Includes **light/dark mode toggle**  
@@ -45,7 +45,7 @@ Responsive pet adoption website with playful design and interactivity.
 <p align="center">
   <img src="cscwanderlust_mockup.png" alt="WunderlustTravel mockup across devices" width="85%" />
 </p>
-**Live Demo:** [Wunderlust Travel](https://eahmed8.github.io/wunderlust-responsive-webpage/)  
+**Link:** [Wunderlust Travel](https://eahmed8.github.io/wunderlust-responsive-webpage/)  
 A visually immersive travel site designed to spark curiosity and exploration.  
 - 🖥 Fully responsive — desktop, tablet, mobile layouts  
 - 🎨 Inspired by travel blogs + editorial web design  
