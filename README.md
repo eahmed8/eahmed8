@@ -27,11 +27,7 @@ My work blends visual design, front-end development, and motion graphics to craf
 
 ### 💼 Featured Projects
 
-#### 🐶 Pawfect Pals  
-<p align="center">
-  <img src="cscpawfect_mockup.png" alt="Pawfect Pals Mockup across devices" width="85%" style="border-radius:10;">
-</p>
-
+#### 🐶 Pawfect Pals 
 **Live Demo:** [Pawfect Pals](https://eahmed8.github.io/FinalAssignmentGIT418/)  
 Responsive pet adoption website with playful design and interactivity.
 - ✅ Built using semantic HTML, CSS Grid/Flexbox, JavaScript  
