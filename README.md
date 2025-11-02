@@ -70,7 +70,7 @@ A short cinematic video combining music, ambient sound, and visuals.
 ### 🧰 Skills & Tools
 
 #### 💻 Development
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" />
   <img width="8"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
@@ -111,7 +111,7 @@ I build responsive web experiences using <b>HTML, CSS, and JavaScript</b>, and b
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:eramahmed@email.com">
+  <a href="mailto:eram.ahmed2184@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/eramahmed">
@@ -144,7 +144,7 @@ I build responsive web experiences using <b>HTML, CSS, and JavaScript</b>, and b
 ---
 
 <p align="center">
-  <i>“Good designs are usable. Great design are invisible.”</i><br/>
+  <i>“Good designs are usable. Great designs are invisible.”</i><br/>
   <b>Let’s build something thoughtful together ✨</b>
 </p>
 
