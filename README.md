@@ -42,7 +42,9 @@ Responsive pet adoption website with playful design and interactivity.
 ---
 
 #### ✈️ Wunderlust Travel  
-
+<p align="center">
+  <img src="cscwanderlust_mockup.png" alt="WunderlustTravel mockup across devices" width="85%" />
+</p>
 **Live Demo:** [Wunderlust Travel](https://eahmed8.github.io/wunderlust-responsive-webpage/)  
 A visually immersive travel site designed to spark curiosity and exploration.  
 - 🖥 Fully responsive — desktop, tablet, mobile layouts  
